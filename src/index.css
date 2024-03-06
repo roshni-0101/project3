@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'myFonts';
+    src: url('/Founders_Grotesk/.') ;
+  
+  }
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+  
+  
+  
+  
